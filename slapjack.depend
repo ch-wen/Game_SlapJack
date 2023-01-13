@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1593168615 source:c:\users\user\desktop\程式設計\slapjack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
